@@ -17,6 +17,19 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "Bogus/35.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Bogus.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Bogus.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "GreenDonut/13.9.11": {
         "type": "package",
         "dependencies": {
@@ -744,6 +757,25 @@
         "lib/net6.0/BananaCakePop.Middleware.dll",
         "lib/net7.0/BananaCakePop.Middleware.dll",
         "lib/net8.0/BananaCakePop.Middleware.dll"
+      ]
+    },
+    "Bogus/35.6.0": {
+      "sha512": "WiK99a8LedzzG7QbnJ1OZT02WZHjr8V6L+cmGJbuga7TtI+Whd+KFWNmVPtXKACFNjz2c/FIR6QDNJsHD6Eazg==",
+      "type": "package",
+      "path": "bogus/35.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bogus.35.6.0.nupkg.sha512",
+        "bogus.nuspec",
+        "lib/net40/Bogus.dll",
+        "lib/net40/Bogus.xml",
+        "lib/net6.0/Bogus.dll",
+        "lib/net6.0/Bogus.xml",
+        "lib/netstandard1.3/Bogus.dll",
+        "lib/netstandard1.3/Bogus.xml",
+        "lib/netstandard2.0/Bogus.dll",
+        "lib/netstandard2.0/Bogus.xml"
       ]
     },
     "GreenDonut/13.9.11": {
@@ -1867,6 +1899,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Bogus >= 35.6.0",
       "HotChocolate.AspNetCore >= 13.9.11"
     ]
   },
@@ -1907,6 +1940,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "Bogus": {
+            "target": "Package",
+            "version": "[35.6.0, )"
+          },
           "HotChocolate.AspNetCore": {
             "target": "Package",
             "version": "[13.9.11, )"

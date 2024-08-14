@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZkRYvTtuojutMf39L7mE86peOngi7sLX4rE//lrr9eRaSBFVwh5llICeXHrSbxQe4CDr4RFRDTac+xKdv5PHcA==",
+  "dgSpecHash": "8X+lrazi+t2XZbD6dxe59xs4U8v3+1JCxMsuQ+ix7hPHKdVkKnWH+2g6pKM0Zzdv3pooJ/ETgcht/QpjFfevsw==",
   "success": true,
   "projectFilePath": "/Users/guilhermeytalo/Projects/GraphQLDemo/GraphQLDemo.API/GraphQLDemo.API.csproj",
   "expectedPackageFiles": [
     "/Users/guilhermeytalo/.nuget/packages/bananacakepop.middleware/16.0.3/bananacakepop.middleware.16.0.3.nupkg.sha512",
+    "/Users/guilhermeytalo/.nuget/packages/bogus/35.6.0/bogus.35.6.0.nupkg.sha512",
     "/Users/guilhermeytalo/.nuget/packages/greendonut/13.9.11/greendonut.13.9.11.nupkg.sha512",
     "/Users/guilhermeytalo/.nuget/packages/hotchocolate/13.9.11/hotchocolate.13.9.11.nupkg.sha512",
     "/Users/guilhermeytalo/.nuget/packages/hotchocolate.abstractions/13.9.11/hotchocolate.abstractions.13.9.11.nupkg.sha512",

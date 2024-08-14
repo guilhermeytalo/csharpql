@@ -2,3 +2,15 @@ GraphQLDemo.API/bin/
 GraphQLDemo.API/obj/
 .idea/
 .vs/
+GraphQLDemo.API/bin/Debug/net7.0/GraphQLDemo.API.dll
+GraphQLDemo.API/bin/Debug/net7.0/GraphQLDemo.API.pdb
+GraphQLDemo.API/obj/Debug/net7.0/GraphQLDemo.API.AssemblyInfo.cs
+GraphQLDemo.API/obj/Debug/net7.0/GraphQLDemo.API.AssemblyInfoInputs.cache
+GraphQLDemo.API/obj/Debug/net7.0/GraphQLDemo.API.csproj.CoreCompileInputs.cache
+GraphQLDemo.API/obj/Debug/net7.0/GraphQLDemo.API.csproj.FileListAbsolute.txt
+GraphQLDemo.API/obj/Debug/net7.0/GraphQLDemo.API.dll
+GraphQLDemo.API/obj/Debug/net7.0/GraphQLDemo.API.pdb
+GraphQLDemo.API/obj/Debug/net7.0/ref/GraphQLDemo.API.dll
+GraphQLDemo.API/obj/Debug/net7.0/refint/GraphQLDemo.API.dll
+GraphQLDemo.API/obj/rider.project.model.nuget.info
+GraphQLDemo.API/obj/rider.project.restore.info

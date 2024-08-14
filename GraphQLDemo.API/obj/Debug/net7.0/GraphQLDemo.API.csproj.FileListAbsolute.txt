@@ -55,3 +55,5 @@
 /Users/guilhermeytalo/Projects/GraphQLDemo/GraphQLDemo.API/obj/Debug/net7.0/GraphQLDemo.API.genruntimeconfig.cache
 /Users/guilhermeytalo/Projects/GraphQLDemo/GraphQLDemo.API/obj/Debug/net7.0/ref/GraphQLDemo.API.dll
 /Users/guilhermeytalo/Projects/GraphQLDemo/GraphQLDemo.API/obj/Debug/net7.0/GraphQLD.63F1C550.Up2Date
+/Users/guilhermeytalo/Projects/GraphQLDemo/GraphQLDemo.API/obj/Debug/net7.0/GraphQLDemo.API.sourcelink.json
+/Users/guilhermeytalo/Projects/GraphQLDemo/GraphQLDemo.API/bin/Debug/net7.0/Bogus.dll
