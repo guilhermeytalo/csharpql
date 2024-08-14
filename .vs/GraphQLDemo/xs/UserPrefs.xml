@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A9731FD6-5F38-44F7-A6FF-C90FB1FC588B}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GraphQLDemo.API PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GraphQLDemo.API/Program.cs">
+    <Files>
+      <File FileName="GraphQLDemo.API/Program.cs" Line="1" Column="1" />
+      <File FileName="GraphQLDemo.API/Properties/launchSettings.json" Line="41" Column="48" />
+      <File FileName="GraphQLDemo.API/Startup.cs" Line="22" Column="28" />
+      <File FileName="GraphQLDemo.API/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GraphQLDemo" expanded="True">
+            <Node name="GraphQLDemo.API" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
